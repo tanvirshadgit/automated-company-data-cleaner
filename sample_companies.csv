@@ -1,0 +1,10 @@
+
+company_name,email,industry,country
+Acme Labs,hello@acme.com,AI,USA
+Beta Tech,contact@beta.com,Software,UK
+Acme Labs,hello@acme.com,AI,USA
+Gamma Data,,Analytics,Canada
+Delta Systems,wrong-email,IT,USA
+Epsilon AI,team@epsilon.ai,AI,Australia
+,info@unknown.com,Software,UK
+Eta Solutions,hello@eta.com,Consulting,Bangladesh

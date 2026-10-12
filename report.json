@@ -1,0 +1,16 @@
+{
+    "total_input_rows": 8,
+    "cleaned_rows": 4,
+    "rejected_rows": 3,
+    "duplicate_records_removed": 1,
+    "missing_values_by_column": {
+        "company_name": 1,
+        "email": 1,
+        "industry": 0,
+        "country": 0
+    },
+    "output_files": [
+        "cleaned_companies.csv",
+        "rejected_companies.csv"
+    ]
+}

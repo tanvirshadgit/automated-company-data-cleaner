@@ -1,0 +1,4 @@
+company_name,email,industry,country,rejection_reason
+Gamma Data,,Analytics,Canada,Missing email
+Delta Systems,wrong-email,IT,USA,Invalid email format
+,info@unknown.com,Software,UK,Missing company name
